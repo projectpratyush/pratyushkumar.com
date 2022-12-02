@@ -132,13 +132,13 @@ a {
   }
 
 .top-cloud {
-    position: absolute;
+    position: relative;
     right: 18.75rem;
     top: 50px;
 }
 
 .bottom-cloud {
-    position: absolute;
+    position: relative;
     left: 18.75rem;
     bottom: 300px;
 }
