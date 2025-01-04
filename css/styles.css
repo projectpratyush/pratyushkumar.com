@@ -145,10 +145,26 @@ a {
 
 @keyframes colorChange {
     0% { color: red; }
-    25% { color: orange; }
-    50% { color: yellow; }
-    75% { color: green; }
-    100% { color: blue; }
+    5% { color: orange; }
+    10% { color: yellow; }
+    15% { color: green; }
+    20% { color: cyan; }
+    25% { color: blue; }
+    30% { color: indigo; }
+    35% { color: violet; }
+    40% { color: pink; }
+    45% { color: purple; }
+    50% { color: magenta; }
+    55% { color: lightblue; }
+    60% { color: lightgreen; }
+    65% { color: lightyellow; }
+    70% { color: lightorange; }
+    75% { color: chartreuse; }
+    80% { color: turquoise; }
+    85% { color: peachpuff; }
+    90% { color: lavender; }
+    95% { color: silver; }
+    100% { color: white; }
 }
 
 .dynamic-color {
