@@ -147,25 +147,26 @@ a {
     0% { color: red; }
     5% { color: orange; }
     10% { color: yellow; }
-    15% { color: green; }
+    15% { color: lime; }
     20% { color: cyan; }
-    25% { color: blue; }
-    30% { color: indigo; }
-    35% { color: violet; }
-    40% { color: pink; }
-    45% { color: purple; }
-    50% { color: magenta; }
-    55% { color: lightblue; }
-    60% { color: lightgreen; }
-    65% { color: lightyellow; }
-    70% { color: lightorange; }
+    25% { color: lightblue; }
+    30% { color: lightgreen; }
+    35% { color: pink; }
+    40% { color: lightcoral; }
+    45% { color: peachpuff; }
+    50% { color: violet; }
+    55% { color: aquamarine; }
+    60% { color: lightyellow; }
+    65% { color: lightpink; }
+    70% { color: gold; }
     75% { color: chartreuse; }
     80% { color: turquoise; }
-    85% { color: peachpuff; }
-    90% { color: lavender; }
-    95% { color: silver; }
+    85% { color: palevioletred; }
+    90% { color: lightgray; }
+    95% { color: whitesmoke; }
     100% { color: white; }
 }
+
 
 .dynamic-color {
     animation: colorChange 3s infinite;
